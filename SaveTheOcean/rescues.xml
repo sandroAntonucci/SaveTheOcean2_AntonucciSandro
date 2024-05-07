@@ -1,0 +1,28 @@
+<rescues>
+  <rescue>
+    <playerName>asdfasf</playerName>
+    <playerXP>-20</playerXP>
+    <RES>RES825</RES>
+    <rescueDate>07/05/2024</rescueDate>
+    <rescueSpecies>Delfín</rescueSpecies>
+    <rescueGA>52</rescueGA>
+    <rescueLocation>Girona</rescueLocation>
+    <animalName>Oumou</animalName>
+    <animalSuperFamily>Cetáceo</animalSuperFamily>
+    <animalSpecies>Delfín</animalSpecies>
+    <animalWeight>20,5</animalWeight>
+  </rescue>
+  <rescue>
+    <playerName>asdfa</playerName>
+    <playerXP>45</playerXP>
+    <RES>RES833</RES>
+    <rescueDate>07/05/2024</rescueDate>
+    <rescueSpecies>Pingüino</rescueSpecies>
+    <rescueGA>0</rescueGA>
+    <rescueLocation>Barcelona</rescueLocation>
+    <animalName>Pingu</animalName>
+    <animalSuperFamily>Ave Marina</animalSuperFamily>
+    <animalSpecies>Pingüino</animalSpecies>
+    <animalWeight>20</animalWeight>
+  </rescue>
+</rescues>
